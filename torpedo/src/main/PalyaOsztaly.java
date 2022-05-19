@@ -25,5 +25,15 @@ public class PalyaOsztaly {
             palya[i] = KEK + "_";
         }
         return palya;
+ 
+    }
+    public int[] SzamokPalya(){
+    int[] Szamok = new int[7];
+    int szam = 1;
+        for (int i = 0; i < Szamok.length; i++) {
+            Szamok[i] += szam;
+            szam++;
+        }
+        return Szamok;
     }
 }
