@@ -1,0 +1,18 @@
+-uml
+hajo
+------
+-meret
+------
++hajógenerál
+
+fontosabb meth. magyarázás
+egy játékos gép ellen
+egy sor(7 kocka) 1 hajó(3 kocka)
+
+hajó osztály: elhelyezi a 3 elemet
+2 konstruktor- 1-ik beállítja a hajó méret a felhasználó, 
+másik meg alap értéket ad ami 3
+
+pálya osztály ami generál egy pályát
+2 konstruktor- 1-ik beállítja a pálya méret a felhasználó,
+másik meg alap értéket ad ami 7
