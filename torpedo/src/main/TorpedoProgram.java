@@ -9,7 +9,6 @@ public class TorpedoProgram {
         for (int i = 0; i < palya.length; i++) {
             System.out.print(palya[i]+" ");
         }
-<<<<<<< HEAD
         
         System.out.println("");
         
@@ -17,8 +16,6 @@ public class TorpedoProgram {
         for (int i = 0; i < Szamok.length; i++) {
             System.out.print(Szamok[i]+" ");
         }
-=======
->>>>>>> 261460f43ffaaaec7d112893f84881a63b1ee496
     }
     
 }
